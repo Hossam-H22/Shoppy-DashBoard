@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# Shoppy - Admin Dashboard Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- Image logo -->
 
-## Available Scripts
 
-In the project directory, you can run:
+## Description
+Welcome to the Shoppy Project, an admin dashboard template built using React and Syncfusion. This template provides a comprehensive set of features for visualizing and managing your data. It includes various charts and visualizations, pages for orders, employees, and customers, as well as several useful apps like a calendar, kanban board, editor, and color picker.
+ *<a href="https://shoppy-dashboard-dragon-h22.vercel.app" target="_blank"> Check it now⚡</a>*
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Features
+The Shoppy Project admin dashboard template comes with a wide range of features, including:
+- **Dashboard:** An overview of key metrics and statistics.
+- **Orders:** Manage and track customer orders with detailed information.
+- **Employees:** Keep track of employee data and performance.
+- **Customers:** Maintain a database of customer information.
+- **Calendar:** Plan and schedule events with an interactive calendar.
+- **Kanban Board:** Visualize tasks and workflows using the Kanban Board.
+- **Editor:** Rich text editor for content creation and editing.
+- **Color Picker:** Select and customize colors with ease.
+- **Charts:** Various chart types including Line, Area, Bar, Pie, Financial, Color Mapping, Pyramid, and Stacked charts for data visualization.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Getting Started
 
-### `npm run eject`
+To get started with the Shoppy Project, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. **Clone the Repository:** Clone this repository to your local machine using the following command:
+```bash
+  git clone https://github.com/Dragon-H22/Shoppy-DashBoard.git
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. **Install Dependencies:** Navigate to the project directory and install the required dependencies using your preferred package manager:
+```bash
+  cd Shoppy-DashBoard
+  npm install
+```
+3. **Run the Application:** Start the development server to run the application locally:
+```bash
+  npm start
+```
+4. **Access the Application:** Open your web browser and visit `http://localhost:3000` to see the Fresh Cart frontend in action.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Customization
+You can easily customize the Shoppy Project to suit your specific needs:
+- Modify the dashboard components and layout.
+- Add additional pages or features.
+- Change the styling and theming to match your branding.
+The codebase is well-organized, making it easy to make these customizations.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<br>
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Sample Photos 
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
