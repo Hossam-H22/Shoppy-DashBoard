@@ -1,7 +1,10 @@
 # Shoppy - Admin Dashboard Template
 
 <!-- Image logo -->
+<!-- ![logo](https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/bae88b3f-11a4-488f-a8be-7a67f6ce4a5a) -->
+![logo_2](https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/de624915-1d9a-4034-a4a2-a7ca4528bd1c)
 
+<br>
 
 ## Description
 Welcome to the Shoppy Project, an admin dashboard template built using React and Syncfusion. This template provides a comprehensive set of features for visualizing and managing your data. It includes various charts and visualizations, pages for orders, employees, and customers, as well as several useful apps like a calendar, kanban board, editor, and color picker.
@@ -68,6 +71,28 @@ The codebase is well-organized, making it easy to make these customizations.
 
 ## Sample Photos 
 
+#### Home
+![1](https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/3ceea889-bfff-4611-a223-1d12c1c7aecf)
+
+<br>
+
+#### Home (Dark Mode)
+![2](https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/86c468f9-bd73-4d26-9281-b88da1432675)
+
+<br>
+
+#### Sample Pages
+![3](https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/266a461c-b695-4a11-8f01-78fb9caa52cb)
+
+<br>
+
+#### Sample Apps
+![4](https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/cc19ba4f-4a5e-47fc-9975-93e31392c813)
+
+<br>
+
+#### Sample Charts
+![5](https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/e656f28e-2486-4d07-96b9-bb6245953c85)
 
 
 
