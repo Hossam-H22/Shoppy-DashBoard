@@ -7,7 +7,7 @@
 <br> <br>
 
 ## Description
-Welcome to the Shoppy Project, an admin dashboard template built using React and Syncfusion. This template provides a comprehensive set of features for visualizing and managing your data. It includes various charts and visualizations, pages for orders, employees, and customers, as well as several useful apps like a calendar, kanban board, editor, and color picker.
+Welcome to the Shoppy Project, an admin dashboard template built using React, Tailwind, and Syncfusion. This template provides a comprehensive set of features for visualizing and managing your data. It includes various charts and visualizations, pages for orders, employees, and customers, as well as several useful apps like a calendar, kanban board, editor, and color picker.
  *<a href="https://shoppy-dashboard-dragon-h22.vercel.app" target="_blank"> Check it now⚡</a>*
 
 
