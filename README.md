@@ -1,10 +1,9 @@
-# Shoppy - Admin Dashboard Template   <img alt="Shoppy Logo" align="right" width="150px" src="https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/de624915-1d9a-4034-a4a2-a7ca4528bd1c"  />
+# Shoppy - Admin Dashboard Template   <!-- <img alt="Shoppy Logo" align="right" width="150px" src="https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/de624915-1d9a-4034-a4a2-a7ca4528bd1c"  /> -->
 
 <!-- Image logo -->
 <!-- ![logo](https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/bae88b3f-11a4-488f-a8be-7a67f6ce4a5a) -->
 <!-- ![logo_2](https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/de624915-1d9a-4034-a4a2-a7ca4528bd1c) -->
-<!-- <img alt="Shoppy Logo" align="center" width="550px" src="https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/de624915-1d9a-4034-a4a2-a7ca4528bd1c"  /> -->
-
+<img alt="Shoppy Logo" align="center" width="550px" src="https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/de624915-1d9a-4034-a4a2-a7ca4528bd1c"  />
 <br> <br>
 
 ## Description
