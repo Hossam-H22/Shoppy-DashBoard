@@ -1,15 +1,21 @@
-# Shoppy - Admin Dashboard Template   <!-- <img alt="Shoppy Logo" align="right" width="150px" src="https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/de624915-1d9a-4034-a4a2-a7ca4528bd1c"  /> -->
+# Shoppy - Admin Dashboard Template   
+
+<!-- <img alt="Shoppy Logo" align="right" width="150px" src="https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/de624915-1d9a-4034-a4a2-a7ca4528bd1c"  /> -->
 
 <!-- Image logo -->
 <!-- ![logo](https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/bae88b3f-11a4-488f-a8be-7a67f6ce4a5a) -->
 <!-- ![logo_2](https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/de624915-1d9a-4034-a4a2-a7ca4528bd1c) -->
+
 <img alt="Shoppy Logo" align="center" width="550px" src="https://github.com/Dragon-H22/Shoppy-DashBoard/assets/88390970/de624915-1d9a-4034-a4a2-a7ca4528bd1c"  />
-<br> <br>
 
-## Description
+
+<br>
+
 Welcome to the Shoppy Project, an admin dashboard template built using React, Tailwind, and Syncfusion. This template provides a comprehensive set of features for visualizing and managing your data. It includes various charts and visualizations, pages for orders, employees, and customers, as well as several useful apps like a calendar, kanban board, editor, and color picker.
- *<a href="https://shoppy-dashboard-dragon-h22.vercel.app" target="_blank"> Check it now⚡</a>*
 
+<!--
+ *<a href="https://shoppy-dashboard-dragon-h22.vercel.app" target="_blank"> Check it now⚡</a>*
+-->
 
 <br>
 
